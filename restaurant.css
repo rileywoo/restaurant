@@ -37,13 +37,13 @@ h2 {
 }
 /* About Us */
 
-
 #name {
 	text-align: left;
 	padding-left: 9em;
 }
 .bio {
-	padding-top: 40px;
+	padding-top: 20px;
+	padding-right: 100px;
 }
 .bar {
 	clear: left;
