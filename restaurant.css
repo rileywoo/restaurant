@@ -5,6 +5,8 @@ h1 {
 h2 {
 	text-align: center;
 }
+
+/* Shared */
 #motto {
 	text-align: center;
 }
@@ -25,19 +27,15 @@ h2 {
 	text-decoration: none; 
 }
 
-.food {
-	margin-left: 250px;
-	margin-right: 250px;
-	text-align: center;
+/* Home */
 
-}
+
+/* About Us */
 .profile{
 	float: left;
 	padding-left: 15em;
 	padding-right: 40px;
 }
-/* About Us */
-
 #name {
 	text-align: left;
 	padding-left: 9em;
@@ -54,4 +52,13 @@ h2 {
 
 .contact {
 	text-align: center;
+}
+
+/* Menu */
+
+.food {
+	margin-left: 250px;
+	margin-right: 250px;
+	text-align: center;
+
 }
