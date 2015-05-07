@@ -1,3 +1,6 @@
+.jumbotron {
+	background-color: #86c6ff;
+}
 h1 {
 	text-align: center;
 }
@@ -28,7 +31,21 @@ h2 {
 }
 
 /* Home */
-
+/*.review {
+	list-style-type: none;
+	position: absolute;
+	left: 27%;
+	display: inline-block;
+}
+.review img {
+	float: left;
+	margin-right: 50px;
+}
+.review p {
+	padding-top: 10px;
+	font-size: 15pt;
+	display: inline-block;
+}*/
 
 /* About Us */
 .profile{
