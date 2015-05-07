@@ -1,3 +1,66 @@
+/* Nav Bar */
+.navigation {
+/*	margin: 200px 20px;*/
+	background: #86c6ff;
+	overflow: hidden;
+	width: 100%;
+}
+
+.navigation li {
+	width: 25%;
+	border-left: 5px solid #666;
+	float: left;
+	cursor: pointer;
+	list-style-type: none;
+
+	padding: 3px 120px 3px 15px;
+	
+	-webkit-transition: all 0.3s ease-in;
+	-moz-transition: all 0.3s ease-in;
+	-o-transition: all 0.3s ease-in;
+}
+
+.navigation li h2 {
+	font-family: georgia;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 22px;
+	margin-bottom: 10px;
+	line-height: 2px;
+}
+.navigation li a {
+	text-decoration: none;
+	color: #333333;
+}
+.navigation li p{
+	font-size: 16px;
+	color: #999;
+	
+	-webkit-transition: all 0.1s ease-in;
+	-moz-transition: all 0.1s ease-in;
+	-o-transition: all 0.1s ease-in;
+}
+.navigation li a:hover {
+	text-decoration: none;
+}
+
+.navigation li:hover {
+	background: #3AA2FF;
+	border-left: 5px solid #000;
+}
+
+.navigation li:hover h2 {
+	font-weight: bold;
+	color: #fff;
+}
+
+.navigation li:hover p {
+	color: #ccc;
+	padding-left: 5px;
+}
+
+/* Globals */
+
 .jumbotron {
 	background-color: #86c6ff;
 }
