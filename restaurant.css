@@ -110,6 +110,24 @@ h2 {
 	display: inline-block;
 }*/
 
+.review:hover {
+	color: blue;
+}
+#rev1 {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#rev2 {
+	margin-left: 480px;
+	margin-top: -170px;
+
+}
+#rev3 {
+	margin-left: 880px;
+	margin-top: -190px;
+}
+
 /* About Us */
 .profile{
 	float: left;
@@ -140,5 +158,4 @@ h2 {
 	margin-left: 250px;
 	margin-right: 250px;
 	text-align: center;
-
 }
