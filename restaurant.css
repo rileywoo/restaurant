@@ -112,6 +112,8 @@ h2 {
 
 .review:hover {
 	color: blue;
+	font-weight: bold;
+
 }
 #rev1 {
 	margin-left: 50px;
