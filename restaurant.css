@@ -111,23 +111,26 @@ h2 {
 }*/
 
 .review:hover {
-	color: blue;
+	background-color: #d2d2d2;
 	font-weight: bold;
 
 }
 #rev1 {
 	margin-left: 50px;
 	margin-top: 50px;
+	width: 250px;
 }
 
 #rev2 {
 	margin-left: 480px;
 	margin-top: -170px;
+	width: 250px;
 
 }
 #rev3 {
 	margin-left: 880px;
 	margin-top: -190px;
+	width: 250px;
 }
 
 /* About Us */
